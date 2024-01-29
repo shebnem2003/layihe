@@ -1,4 +1,5 @@
 
+
 window.addEventListener("scroll",function(){
     if(window.scrollY>=200){
         document.querySelector("nav").style.backgroundColor="white"
